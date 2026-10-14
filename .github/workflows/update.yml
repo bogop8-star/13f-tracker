@@ -48,11 +48,37 @@ jobs:
         run: |
           python tracker.py update
           python export.py
+          python build_chunks.py
+
+      # 청크 내용이 바뀌었을 때만 임베딩을 다시 만듭니다 (모델 약 200MB는 캐시)
+      - name: Check chunk changes
+        id: chunks
+        run: |
+          if git diff --quiet -- app/public/data/chunks.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+      - uses: actions/setup-node@v4
+        if: steps.chunks.outputs.changed == 'true'
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: app/package-lock.json
+      - uses: actions/cache@v4
+        if: steps.chunks.outputs.changed == 'true'
+        with:
+          path: app/.model-cache
+          key: embeddinggemma-no-gather-q4
+      - name: Embed chunks
+        if: steps.chunks.outputs.changed == 'true'
+        working-directory: app
+        run: npm ci && npm run embed
 
       - name: Commit data if changed
         id: diff
         run: |
-          git add data/state.json app/public/data/holdings.json
+          git add data/state.json app/public/data/holdings.json app/public/data/chunks.json app/public/data/docs.json
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
@@ -76,7 +102,7 @@ jobs:
           ref: main   # update 단계에서 커밋한 데이터 포함
       - uses: actions/setup-node@v4
         with:
-          node-version: 22
+          node-version: 24
           cache: npm
           cache-dependency-path: app/package-lock.json
       - run: npm ci && npm run build

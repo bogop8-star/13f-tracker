@@ -7,9 +7,13 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "oxlint",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "embed": "node scripts/embed-docs.ts",
+    "check": "node scripts/check-retrieval.ts"
   },
   "dependencies": {
+    "@huggingface/tokenizers": "0.2.0",
+    "onnxruntime-web": "1.30.0",
     "react": "^19.2.8",
     "react-dom": "^19.2.8"
   },

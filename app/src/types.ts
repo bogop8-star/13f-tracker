@@ -31,6 +31,9 @@ export interface Investor {
   newBuyCount: number | null
   /** 퀀트/멀티전략 펀드는 평가액 상위 quantNewBuys개만 */
   newBuys: Position[]
+  soldCount: number | null
+  /** 직전 분기에 있었고 이번 분기에 없는 종목 */
+  soldOut: { cusip: string; ticker: string; name: string; prevValue: number }[]
 }
 
 export interface HoldingsData {

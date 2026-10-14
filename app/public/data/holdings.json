@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-14T07:17:03",
-  "lastUpdate": "2026-10-14T07:17:03",
+  "generatedAt": "2026-10-14T16:25:25",
+  "lastUpdate": "2026-10-14T15:34:48",
   "topHoldings": 100,
   "quantNewBuys": 5,
   "investors": [
@@ -320,6 +320,15 @@
           "shares": 3564.0,
           "prevShares": null,
           "ticker": "DHI"
+        }
+      ],
+      "soldCount": 1,
+      "soldOut": [
+        {
+          "cusip": "21036P108",
+          "name": "CONSTELLATION BRANDS INC",
+          "prevValue": 94933500,
+          "ticker": "STZ"
         }
       ]
     },
@@ -1640,6 +1649,129 @@
           "prevShares": null,
           "ticker": "GGAL"
         }
+      ],
+      "soldCount": 23,
+      "soldOut": [
+        {
+          "cusip": "11135F101",
+          "name": "Broadcom Inc",
+          "prevValue": 60650000,
+          "ticker": "AVGO"
+        },
+        {
+          "cusip": "68404L201",
+          "name": "Option Care Health Inc",
+          "prevValue": 50301000,
+          "ticker": "OPCH"
+        },
+        {
+          "cusip": "349381103",
+          "name": "Figure Technology Solutio",
+          "prevValue": 39057000,
+          "ticker": "FIGR"
+        },
+        {
+          "cusip": "76131D103",
+          "name": "Restaurant Brands Intl Inc",
+          "prevValue": 33583000,
+          "ticker": "QSR"
+        },
+        {
+          "cusip": "518415104",
+          "name": "Lattice Semiconductor Corp",
+          "prevValue": 29974000,
+          "ticker": "LSCC"
+        },
+        {
+          "cusip": "444859102",
+          "name": "Humana Inc",
+          "prevValue": 23842000,
+          "ticker": "HUM"
+        },
+        {
+          "cusip": "90138F102",
+          "name": "Twilio Inc",
+          "prevValue": 22869000,
+          "ticker": "TWLO"
+        },
+        {
+          "cusip": "466313103",
+          "name": "Jabil Inc",
+          "prevValue": 21835000,
+          "ticker": "JBL"
+        },
+        {
+          "cusip": "46428R107",
+          "name": "Ishares S&P Gsci Commodity-",
+          "prevValue": 20737000,
+          "ticker": "GSG"
+        },
+        {
+          "cusip": "093712107",
+          "name": "Bloom Energy Corp",
+          "prevValue": 18470000,
+          "ticker": "BE"
+        },
+        {
+          "cusip": "458140100",
+          "name": "Intel Corp",
+          "prevValue": 18155000,
+          "ticker": "INTC"
+        },
+        {
+          "cusip": "18915M107",
+          "name": "Cloudflare Inc",
+          "prevValue": 10840000,
+          "ticker": "NET"
+        },
+        {
+          "cusip": "N53745100",
+          "name": "Lyondellbasell Industries Nv",
+          "prevValue": 10588000,
+          "ticker": ""
+        },
+        {
+          "cusip": "90184D100",
+          "name": "Twist Bioscience Corp",
+          "prevValue": 9789000,
+          "ticker": "TWST"
+        },
+        {
+          "cusip": "19247G107",
+          "name": "Coherent Corp",
+          "prevValue": 9624000,
+          "ticker": "COHR"
+        },
+        {
+          "cusip": "15101Q207",
+          "name": "Celestica Inc",
+          "prevValue": 9373000,
+          "ticker": "CLS"
+        },
+        {
+          "cusip": "86384P109",
+          "name": "Stubhub Hldgs Inc",
+          "prevValue": 8531000,
+          "ticker": "STUB"
+        },
+        {
+          "cusip": "595112103",
+          "name": "Micron Technology Inc",
+          "prevValue": 7905000,
+          "ticker": "MU"
+        },
+        {
+          "cusip": "278768106",
+          "name": "Echostar Corp",
+          "prevValue": 7114000,
+          "ticker": "ECHO"
+        },
+        {
+          "cusip": "020398707",
+          "name": "Almonty Inds Inc",
+          "prevValue": 6804000,
+          "ticker": "ALM"
+        }
       ]
     },
     {
@@ -1969,6 +2101,81 @@
           "prevShares": null,
           "ticker": "GT"
         }
+      ],
+      "soldCount": 12,
+      "soldOut": [
+        {
+          "cusip": "80004C200",
+          "name": "SANDISK CORP",
+          "prevValue": 178689375,
+          "ticker": "SNDK"
+        },
+        {
+          "cusip": "219350105",
+          "name": "CORNING INC",
+          "prevValue": 153578115,
+          "ticker": "GLW"
+        },
+        {
+          "cusip": "722304102",
+          "name": "PDD HOLDINGS INC",
+          "prevValue": 91962000,
+          "ticker": "PDD"
+        },
+        {
+          "cusip": "502431109",
+          "name": "L3HARRIS TECHNOLOGIES INC",
+          "prevValue": 68339700,
+          "ticker": "LHX"
+        },
+        {
+          "cusip": "75513E101",
+          "name": "RTX CORPORATION",
+          "prevValue": 65971800,
+          "ticker": "RTX"
+        },
+        {
+          "cusip": "058498106",
+          "name": "BALL CORP",
+          "prevValue": 49475070,
+          "ticker": "BALL"
+        },
+        {
+          "cusip": "47215P106",
+          "name": "JD.COM INC",
+          "prevValue": 38588850,
+          "ticker": "JD"
+        },
+        {
+          "cusip": "55087P104",
+          "name": "LYFT INC",
+          "prevValue": 35910000,
+          "ticker": "LYFT"
+        },
+        {
+          "cusip": "594918104",
+          "name": "MICROSOFT CORP",
+          "prevValue": 33315300,
+          "ticker": "MSFT"
+        },
+        {
+          "cusip": "500767306",
+          "name": "KRANESHARES TRUST",
+          "prevValue": 30704400,
+          "ticker": "KWEB"
+        },
+        {
+          "cusip": "91324P102",
+          "name": "UNITEDHEALTH GROUP INC",
+          "prevValue": 24353100,
+          "ticker": "UNH"
+        },
+        {
+          "cusip": "D18190898",
+          "name": "DEUTSCHE BK AG",
+          "prevValue": 7671804,
+          "ticker": ""
+        }
       ]
     },
     {
@@ -2248,6 +2455,21 @@
           "prevShares": null,
           "ticker": "PS"
         }
+      ],
+      "soldCount": 2,
+      "soldOut": [
+        {
+          "cusip": "G96629103",
+          "name": "WILLIS TOWERS WATSON PLC LTD",
+          "prevValue": 259632000,
+          "ticker": ""
+        },
+        {
+          "cusip": "92243G108",
+          "name": "VAXCYTE INC",
+          "prevValue": 46488000,
+          "ticker": "PCVX"
+        }
       ]
     },
     {
@@ -2346,7 +2568,46 @@
         }
       ],
       "newBuyCount": 0,
-      "newBuys": []
+      "newBuys": [],
+      "soldCount": 6,
+      "soldOut": [
+        {
+          "cusip": "060505104",
+          "name": "BK OF AMERICA CORP",
+          "prevValue": 146151866,
+          "ticker": "BAC"
+        },
+        {
+          "cusip": "674599105",
+          "name": "OCCIDENTAL PETE CORP",
+          "prevValue": 95322500,
+          "ticker": "OXY"
+        },
+        {
+          "cusip": "78409V104",
+          "name": "S&P GLOBAL INC",
+          "prevValue": 51663072,
+          "ticker": "SPGI"
+        },
+        {
+          "cusip": "093671105",
+          "name": "BLOCK H & R INC",
+          "prevValue": 51637996,
+          "ticker": "HRB"
+        },
+        {
+          "cusip": "615369105",
+          "name": "MOODYS CORP",
+          "prevValue": 51383270,
+          "ticker": "MCO"
+        },
+        {
+          "cusip": "55354G100",
+          "name": "MSCI INC",
+          "prevValue": 10208310,
+          "ticker": "MSCI"
+        }
+      ]
     },
     {
       "cik": 1040273,
@@ -2583,16 +2844,6 @@
           "ticker": "PFGC"
         },
         {
-          "cusip": "02079K404",
-          "name": "ALPHABET INC",
-          "cls": "DEP SHS RP1/20 A",
-          "value": 66157000,
-          "weight": 0.014248374025703434,
-          "shares": 1300000.0,
-          "prevShares": null,
-          "ticker": "GOOGL 6.25 05/15/29 A"
-        },
-        {
           "cusip": "N07059210",
           "name": "ASML HLDG NV",
           "cls": "N Y REGISTRY SHS",
@@ -2641,16 +2892,6 @@
           "shares": 5000000.0,
           "prevShares": 5000000.0,
           "ticker": "SRTA"
-        },
-        {
-          "cusip": "02079K602",
-          "name": "ALPHABET INC",
-          "cls": "DEP SHS RP1/20 B",
-          "value": 10060000,
-          "weight": 0.002166643631037933,
-          "shares": 200000.0,
-          "prevShares": null,
-          "ticker": "GOOGL 6.25 05/15/29 B"
         },
         {
           "cusip": "82835W108",
@@ -2826,16 +3067,6 @@
           "ticker": "PFGC"
         },
         {
-          "cusip": "02079K404",
-          "name": "ALPHABET INC",
-          "cls": "DEP SHS RP1/20 A",
-          "value": 66157000,
-          "weight": 0.014248374025703434,
-          "shares": 1300000.0,
-          "prevShares": null,
-          "ticker": "GOOGL 6.25 05/15/29 A"
-        },
-        {
           "cusip": "871829107",
           "name": "SYSCO CORP",
           "cls": "COM",
@@ -2864,16 +3095,6 @@
           "shares": 180415.0,
           "prevShares": null,
           "ticker": "SPCX"
-        },
-        {
-          "cusip": "02079K602",
-          "name": "ALPHABET INC",
-          "cls": "DEP SHS RP1/20 B",
-          "value": 10060000,
-          "weight": 0.002166643631037933,
-          "shares": 200000.0,
-          "prevShares": null,
-          "ticker": "GOOGL 6.25 05/15/29 B"
         },
         {
           "cusip": "071705107",
@@ -2924,6 +3145,63 @@
           "shares": 10000.0,
           "prevShares": null,
           "ticker": "WOLF"
+        }
+      ],
+      "soldCount": 9,
+      "soldOut": [
+        {
+          "cusip": "30303M102",
+          "name": "META PLATFORMS INC",
+          "prevValue": 51491700,
+          "ticker": "META"
+        },
+        {
+          "cusip": "78463V107",
+          "name": "SPDR GOLD TR",
+          "prevValue": 40877550,
+          "ticker": "GLD"
+        },
+        {
+          "cusip": "67066G104",
+          "name": "NVIDIA CORPORATION",
+          "prevValue": 33136000,
+          "ticker": "NVDA"
+        },
+        {
+          "cusip": "482480100",
+          "name": "KLA CORP",
+          "prevValue": 16196510,
+          "ticker": "KLAC"
+        },
+        {
+          "cusip": "512807306",
+          "name": "LAM RESEARCH CORP",
+          "prevValue": 16024500,
+          "ticker": "LRCX"
+        },
+        {
+          "cusip": "11135F101",
+          "name": "BROADCOM INC",
+          "prevValue": 15475500,
+          "ticker": "AVGO"
+        },
+        {
+          "cusip": "92189F676",
+          "name": "VANECK ETF TRUST",
+          "prevValue": 15336000,
+          "ticker": "SMH"
+        },
+        {
+          "cusip": "G8068L108",
+          "name": "SHARKNINJA INC",
+          "prevValue": 13820903,
+          "ticker": ""
+        },
+        {
+          "cusip": "62548M209",
+          "name": "CLARITEV CORPORATION",
+          "prevValue": 718960,
+          "ticker": "CTEV"
         }
       ]
     },
@@ -3133,6 +3411,21 @@
           "shares": 4000000.0,
           "prevShares": null,
           "ticker": "PSUS"
+        }
+      ],
+      "soldCount": 2,
+      "soldOut": [
+        {
+          "cusip": "02079K107",
+          "name": "ALPHABET INC",
+          "prevValue": 89421720,
+          "ticker": "GOOG"
+        },
+        {
+          "cusip": "02079K305",
+          "name": "ALPHABET INC",
+          "prevValue": 9310043,
+          "ticker": "GOOGL"
         }
       ]
     },
@@ -4192,16 +4485,39 @@
           "shares": 2299997.0,
           "prevShares": null,
           "ticker": "QNT"
+        }
+      ],
+      "soldCount": 1332,
+      "soldOut": [
+        {
+          "cusip": "464287440",
+          "name": "ISHARES TR",
+          "prevValue": 327476114,
+          "ticker": "IEF"
         },
         {
-          "cusip": "02079K602",
-          "name": "ALPHABET INC",
-          "cls": "DEP SHS RP1/20 B",
-          "value": 177857707,
-          "weight": 0.0010355265895455408,
-          "shares": 3550000.0,
-          "prevShares": null,
-          "ticker": "GOOGL 6.25 05/15/29 B"
+          "cusip": "127097103",
+          "name": "COTERRA ENERGY INC",
+          "prevValue": 216412676,
+          "ticker": "CTRA"
+        },
+        {
+          "cusip": "185123106",
+          "name": "CLEARWATER ANALYTICS HLDGS I",
+          "prevValue": 199639489,
+          "ticker": "CWAN"
+        },
+        {
+          "cusip": "880881107",
+          "name": "TERNS PHARMACEUTICALS INC",
+          "prevValue": 169695663,
+          "ticker": "430"
+        },
+        {
+          "cusip": "379577208",
+          "name": "GLOBUS MED INC",
+          "prevValue": 169400382,
+          "ticker": "GMED"
         }
       ]
     },
@@ -5253,16 +5569,6 @@
           "ticker": "MPWR"
         },
         {
-          "cusip": "86800U500",
-          "name": "SUPER  MICRO     COMPUTER     INC",
-          "cls": "7      DEP  CM  SR  A  WI",
-          "value": 166914448,
-          "weight": 0.0011678902647325868,
-          "shares": 3252332.0,
-          "prevShares": null,
-          "ticker": "SMCI 7 06/01/29"
-        },
-        {
           "cusip": "G2004J103",
           "name": "CARNIVAL     CORP  LTD",
           "cls": "COMMON         SHARES",
@@ -5271,6 +5577,39 @@
           "shares": 5451184.0,
           "prevShares": null,
           "ticker": ""
+        }
+      ],
+      "soldCount": 641,
+      "soldOut": [
+        {
+          "cusip": "78464A854",
+          "name": "SPDR  SERIES  TRUST",
+          "prevValue": 1650675570,
+          "ticker": "SPYM"
+        },
+        {
+          "cusip": "127097103",
+          "name": "COTERRA   ENERGY        INC",
+          "prevValue": 447362210,
+          "ticker": "CTRA"
+        },
+        {
+          "cusip": "436440101",
+          "name": "HOLOGIC   INC",
+          "prevValue": 427176098,
+          "ticker": "HO1"
+        },
+        {
+          "cusip": "185123106",
+          "name": "CLEARWATER   ANALYTICS      HLDGS     I",
+          "prevValue": 219805370,
+          "ticker": "CWAN"
+        },
+        {
+          "cusip": "574795100",
+          "name": "MASIMO   CORP",
+          "prevValue": 175887283,
+          "ticker": "MASI*"
         }
       ]
     },
@@ -6041,6 +6380,39 @@
           "prevShares": null,
           "ticker": "AGX"
         }
+      ],
+      "soldCount": 5,
+      "soldOut": [
+        {
+          "cusip": "92826C839",
+          "name": "VISA INC",
+          "prevValue": 217235907,
+          "ticker": "V"
+        },
+        {
+          "cusip": "16935C109",
+          "name": "CHIME FINL INC",
+          "prevValue": 188648409,
+          "ticker": "CHYM"
+        },
+        {
+          "cusip": "83443Q103",
+          "name": "SOLSTICE ADVANCED MATLS INC",
+          "prevValue": 126013498,
+          "ticker": "SOLS"
+        },
+        {
+          "cusip": "12541W209",
+          "name": "C H ROBINSON WORLDWIDE IN",
+          "prevValue": 95159771,
+          "ticker": "CHRW"
+        },
+        {
+          "cusip": "46438F101",
+          "name": "ISHARES BITCOIN TRUST ETF",
+          "prevValue": 2582823,
+          "ticker": "IBIT"
+        }
       ]
     },
     {
@@ -6609,6 +6981,111 @@
           "shares": 817000.0,
           "prevShares": null,
           "ticker": "CORZ"
+        }
+      ],
+      "soldCount": 17,
+      "soldOut": [
+        {
+          "cusip": "03831W108",
+          "name": "APPLOVIN CORP",
+          "prevValue": 398000000,
+          "ticker": "APP"
+        },
+        {
+          "cusip": "98954M200",
+          "name": "ZILLOW GROUP INC",
+          "prevValue": 304927441,
+          "ticker": "Z"
+        },
+        {
+          "cusip": "64110L106",
+          "name": "NETFLIX INC.",
+          "prevValue": 234509850,
+          "ticker": "NFLX"
+        },
+        {
+          "cusip": "98980G102",
+          "name": "ZSCALER INC",
+          "prevValue": 221625372,
+          "ticker": "ZS"
+        },
+        {
+          "cusip": "74275K108",
+          "name": "PROCORE TECHNOLOGIES INC",
+          "prevValue": 133351500,
+          "ticker": "PCOR"
+        },
+        {
+          "cusip": "55024U109",
+          "name": "LUMENTUM HLDGS INC",
+          "prevValue": 96137568,
+          "ticker": "LITE"
+        },
+        {
+          "cusip": "22160N109",
+          "name": "COSTAR GROUP INC",
+          "prevValue": 60510000,
+          "ticker": "CSGP"
+        },
+        {
+          "cusip": "98954M101",
+          "name": "ZILLOW GROUP INC",
+          "prevValue": 42372309,
+          "ticker": "ZG"
+        },
+        {
+          "cusip": "770701100",
+          "name": "ROBINHOOD VENTURES FD I",
+          "prevValue": 10616000,
+          "ticker": "RVI"
+        },
+        {
+          "cusip": "70450C101",
+          "name": "PAYPAY CORP",
+          "prevValue": 8536000,
+          "ticker": "PAYP"
+        },
+        {
+          "cusip": "349381103",
+          "name": "FIGURE TECHNOLOGY SOLUTIO",
+          "prevValue": 6790000,
+          "ticker": "FIGR"
+        },
+        {
+          "cusip": "64119N608",
+          "name": "NETSKOPE INC",
+          "prevValue": 4245000,
+          "ticker": "NTSK"
+        },
+        {
+          "cusip": "98390R102",
+          "name": "XANADU QUANTUM TECHNOLO LTD",
+          "prevValue": 3830000,
+          "ticker": "XNDU"
+        },
+        {
+          "cusip": "G16910120",
+          "name": "BULLISH",
+          "prevValue": 3573000,
+          "ticker": ""
+        },
+        {
+          "cusip": "G32089107",
+          "name": "ETORO GROUP LTD",
+          "prevValue": 2402400,
+          "ticker": ""
+        },
+        {
+          "cusip": "G5279N105",
+          "name": "KLARNA GROUP PLC",
+          "prevValue": 2290750,
+          "ticker": ""
+        },
+        {
+          "cusip": "316841105",
+          "name": "FIGMA INC",
+          "prevValue": 1268400,
+          "ticker": "FIG"
         }
       ]
     },
@@ -9769,6 +10246,129 @@
           "prevShares": null,
           "ticker": "RXRX"
         }
+      ],
+      "soldCount": 210,
+      "soldOut": [
+        {
+          "cusip": "17275R102",
+          "name": "CISCO SYS INC",
+          "prevValue": 63848190,
+          "ticker": "CSCO"
+        },
+        {
+          "cusip": "00215W100",
+          "name": "ASE TECHNOLOGY HLDG CO LTD",
+          "prevValue": 33557583,
+          "ticker": "ASX"
+        },
+        {
+          "cusip": "21873S108",
+          "name": "COREWEAVE INC",
+          "prevValue": 28201017,
+          "ticker": "CRWV"
+        },
+        {
+          "cusip": "74164F103",
+          "name": "PRIMORIS SVCS CORP",
+          "prevValue": 19477757,
+          "ticker": "PRIM"
+        },
+        {
+          "cusip": "11271J107",
+          "name": "BROOKFIELD CORP",
+          "prevValue": 19286643,
+          "ticker": "BN"
+        },
+        {
+          "cusip": "03823U102",
+          "name": "APPLIED OPTOELECTRONICS INC",
+          "prevValue": 18942662,
+          "ticker": "AAOI"
+        },
+        {
+          "cusip": "69608A108",
+          "name": "PALANTIR TECHNOLOGIES INC",
+          "prevValue": 18751048,
+          "ticker": "PLTR"
+        },
+        {
+          "cusip": "N97284108",
+          "name": "NEBIUS GROUP N.V.",
+          "prevValue": 16296961,
+          "ticker": ""
+        },
+        {
+          "cusip": "866796105",
+          "name": "SUN LIFE FINANCIAL INC.",
+          "prevValue": 15651779,
+          "ticker": "SLF"
+        },
+        {
+          "cusip": "110122108",
+          "name": "BRISTOL-MYERS SQUIBB CO",
+          "prevValue": 14658438,
+          "ticker": "BMY"
+        },
+        {
+          "cusip": "884903808",
+          "name": "THOMSON REUTERS CORP",
+          "prevValue": 14388612,
+          "ticker": "TRI4EUR"
+        },
+        {
+          "cusip": "229899109",
+          "name": "CULLEN FROST BANKERS INC",
+          "prevValue": 12732676,
+          "ticker": "CFR"
+        },
+        {
+          "cusip": "90138F102",
+          "name": "TWILIO INC",
+          "prevValue": 12273112,
+          "ticker": "TWLO"
+        },
+        {
+          "cusip": "72352L106",
+          "name": "PINTEREST INC",
+          "prevValue": 12114285,
+          "ticker": "PINS"
+        },
+        {
+          "cusip": "44812J104",
+          "name": "HUT 8 CORP",
+          "prevValue": 11523860,
+          "ticker": "HUT"
+        },
+        {
+          "cusip": "253393102",
+          "name": "DICKS SPORTING GOODS INC",
+          "prevValue": 9687458,
+          "ticker": "DKS"
+        },
+        {
+          "cusip": "457730109",
+          "name": "INSPIRE MED SYS INC",
+          "prevValue": 8950832,
+          "ticker": "INSP"
+        },
+        {
+          "cusip": "64110L106",
+          "name": "NETFLIX INC.",
+          "prevValue": 7462298,
+          "ticker": "NFLX"
+        },
+        {
+          "cusip": "G29183103",
+          "name": "EATON CORP PLC",
+          "prevValue": 6989229,
+          "ticker": ""
+        },
+        {
+          "cusip": "45073V108",
+          "name": "ITT INC",
+          "prevValue": 6850887,
+          "ticker": "ITT"
+        }
       ]
     },
     {
@@ -10948,6 +11548,51 @@
           "prevShares": null,
           "ticker": "IAI"
         }
+      ],
+      "soldCount": 7,
+      "soldOut": [
+        {
+          "cusip": "438516106",
+          "name": "Honeywell International Inc",
+          "prevValue": 8749395,
+          "ticker": "HONGBP"
+        },
+        {
+          "cusip": "G13311116",
+          "name": "Brera Holdings PLC",
+          "prevValue": 7595296,
+          "ticker": ""
+        },
+        {
+          "cusip": "45866F104",
+          "name": "Intercontinental Exchange Inc",
+          "prevValue": 4589588,
+          "ticker": "ICE"
+        },
+        {
+          "cusip": "697435105",
+          "name": "Palo Alto Networks Inc",
+          "prevValue": 1742037,
+          "ticker": "PANW"
+        },
+        {
+          "cusip": "79466L302",
+          "name": "Salesforce Inc",
+          "prevValue": 1131594,
+          "ticker": "CRM"
+        },
+        {
+          "cusip": "72352L106",
+          "name": "Pinterest Inc",
+          "prevValue": 660754,
+          "ticker": "PINS"
+        },
+        {
+          "cusip": "464287622",
+          "name": "iShares Russell 1000 ETF",
+          "prevValue": 125,
+          "ticker": "IWB"
+        }
       ]
     },
     {
@@ -11436,6 +12081,99 @@
           "shares": 494581.0,
           "prevShares": null,
           "ticker": "SE"
+        }
+      ],
+      "soldCount": 15,
+      "soldOut": [
+        {
+          "cusip": "92840M102",
+          "name": "VISTRA CORP",
+          "prevValue": 930179653,
+          "ticker": "VST"
+        },
+        {
+          "cusip": "87422Q109",
+          "name": "TALEN ENERGY CORP",
+          "prevValue": 580343221,
+          "ticker": "TLN"
+        },
+        {
+          "cusip": "184496107",
+          "name": "CLEAN HARBORS INC",
+          "prevValue": 503196814,
+          "ticker": "CLH"
+        },
+        {
+          "cusip": "88033G407",
+          "name": "TENET HEALTHCARE CORP",
+          "prevValue": 426242485,
+          "ticker": "THC"
+        },
+        {
+          "cusip": "14040H105",
+          "name": "CAPITAL ONE FINL CORP",
+          "prevValue": 413579026,
+          "ticker": "COF"
+        },
+        {
+          "cusip": "29362U104",
+          "name": "ENTEGRIS INC",
+          "prevValue": 365208931,
+          "ticker": "ENTG"
+        },
+        {
+          "cusip": "171779309",
+          "name": "CIENA CORP",
+          "prevValue": 314280726,
+          "ticker": "CIEN"
+        },
+        {
+          "cusip": "929160109",
+          "name": "VULCAN MATLS CO",
+          "prevValue": 39259942,
+          "ticker": "VMC"
+        },
+        {
+          "cusip": "L8681T102",
+          "name": "SPOTIFY TECHNOLOGY S A",
+          "prevValue": 33383144,
+          "ticker": ""
+        },
+        {
+          "cusip": "57636Q104",
+          "name": "MASTERCARD INCORPORATED",
+          "prevValue": 28581052,
+          "ticker": "MA"
+        },
+        {
+          "cusip": "032095101",
+          "name": "AMPHENOL CORP",
+          "prevValue": 28186663,
+          "ticker": "APH"
+        },
+        {
+          "cusip": "43300A203",
+          "name": "HILTON WORLDWIDE HLDGS INC",
+          "prevValue": 27138836,
+          "ticker": "HLT"
+        },
+        {
+          "cusip": "48251W104",
+          "name": "KKR & CO INC",
+          "prevValue": 16585990,
+          "ticker": "KKR"
+        },
+        {
+          "cusip": "09857L108",
+          "name": "BOOKING HOLDINGS INC",
+          "prevValue": 10125820,
+          "ticker": "BKNG"
+        },
+        {
+          "cusip": "101137107",
+          "name": "BOSTON SCIENTIFIC CORP",
+          "prevValue": 6567101,
+          "ticker": "BSX"
         }
       ]
     },
@@ -14246,6 +14984,129 @@
           "prevShares": null,
           "ticker": "DVLT"
         }
+      ],
+      "soldCount": 137,
+      "soldOut": [
+        {
+          "cusip": "574795100",
+          "name": "MASIMO CORP",
+          "prevValue": 60736913,
+          "ticker": "MASI*"
+        },
+        {
+          "cusip": "26614N102",
+          "name": "DUPONT DE NEMOURS INC",
+          "prevValue": 54735122,
+          "ticker": "DWDPEUR"
+        },
+        {
+          "cusip": "00912X302",
+          "name": "AIR LEASE CORP",
+          "prevValue": 39463064,
+          "ticker": "AL1"
+        },
+        {
+          "cusip": "438516106",
+          "name": "HONEYWELL INTL INC",
+          "prevValue": 29446058,
+          "ticker": "HONGBP"
+        },
+        {
+          "cusip": "127097103",
+          "name": "COTERRA ENERGY INC",
+          "prevValue": 24627272,
+          "ticker": "CTRA"
+        },
+        {
+          "cusip": "81211K100",
+          "name": "SEALED AIR CORP NEW",
+          "prevValue": 24087165,
+          "ticker": "SEE1GBP"
+        },
+        {
+          "cusip": "143658300",
+          "name": "CARNIVAL CORP",
+          "prevValue": 20117870,
+          "ticker": "CCL1USD"
+        },
+        {
+          "cusip": "89055F103",
+          "name": "TOPBUILD COR",
+          "prevValue": 16342125,
+          "ticker": "BLD*"
+        },
+        {
+          "cusip": "67092P722",
+          "name": "NUSHARES ETF TR",
+          "prevValue": 9487938,
+          "ticker": "NHYM"
+        },
+        {
+          "cusip": "82982L103",
+          "name": "SITEONE LANDSCAPE SUPPLY INC",
+          "prevValue": 7030604,
+          "ticker": "SITE"
+        },
+        {
+          "cusip": "090043100",
+          "name": "BILL HOLDINGS INC",
+          "prevValue": 6616210,
+          "ticker": "BILL"
+        },
+        {
+          "cusip": "136385101",
+          "name": "CANADIAN NAT RES LTD MED TER",
+          "prevValue": 6490154,
+          "ticker": "CNQ"
+        },
+        {
+          "cusip": "G4766E116",
+          "name": "INDIVIOR PLC",
+          "prevValue": 5226558,
+          "ticker": ""
+        },
+        {
+          "cusip": "381430529",
+          "name": "GOLDMAN SACHS ETF TR",
+          "prevValue": 3998583,
+          "ticker": "GBIL"
+        },
+        {
+          "cusip": "92189F411",
+          "name": "VANECK ETF TRUST",
+          "prevValue": 3896781,
+          "ticker": "BIZD"
+        },
+        {
+          "cusip": "185123106",
+          "name": "CLEARWATER ANALYTICS HLDGS I",
+          "prevValue": 3862258,
+          "ticker": "CWAN"
+        },
+        {
+          "cusip": "89377M109",
+          "name": "TRANSMEDICS GROUP INC",
+          "prevValue": 3759686,
+          "ticker": "TMDX"
+        },
+        {
+          "cusip": "H2927K103",
+          "name": "AMRIZE LTD",
+          "prevValue": 3519569,
+          "ticker": ""
+        },
+        {
+          "cusip": "03753U106",
+          "name": "APELLIS PHARMACEUTICALS INC",
+          "prevValue": 3168113,
+          "ticker": "APLSUSD"
+        },
+        {
+          "cusip": "816850101",
+          "name": "SEMTECH CORP",
+          "prevValue": 2910440,
+          "ticker": "SMTC"
+        }
       ]
     },
     {
@@ -14763,16 +15624,6 @@
           "ticker": "T"
         },
         {
-          "cusip": "02079K404",
-          "name": "ALPHABET INC",
-          "cls": "DEP SHS RP1/20 A",
-          "value": 497952401,
-          "weight": 0.003231955871262323,
-          "shares": 9855000.0,
-          "prevShares": null,
-          "ticker": "GOOGL 6.25 05/15/29 A"
-        },
-        {
           "cusip": "25179M103",
           "name": "DEVON ENERGY CORP NEW",
           "cls": "COM",
@@ -14781,16 +15632,6 @@
           "shares": 12044728.0,
           "prevShares": 3834547.0,
           "ticker": "DVN"
-        },
-        {
-          "cusip": "02079K602",
-          "name": "ALPHABET INC",
-          "cls": "DEP SHS RP1/20 B",
-          "value": 494028272,
-          "weight": 0.0032064863449869775,
-          "shares": 9855000.0,
-          "prevShares": null,
-          "ticker": "GOOGL 6.25 05/15/29 B"
         },
         {
           "cusip": "17275R102",
@@ -15276,36 +16117,6 @@
           "ticker": "SPCX"
         },
         {
-          "cusip": "02079K404",
-          "name": "ALPHABET INC",
-          "cls": "DEP SHS RP1/20 A",
-          "value": 497952401,
-          "weight": 0.003231955871262323,
-          "shares": 9855000.0,
-          "prevShares": null,
-          "ticker": "GOOGL 6.25 05/15/29 A"
-        },
-        {
-          "cusip": "02079K602",
-          "name": "ALPHABET INC",
-          "cls": "DEP SHS RP1/20 B",
-          "value": 494028272,
-          "weight": 0.0032064863449869775,
-          "shares": 9855000.0,
-          "prevShares": null,
-          "ticker": "GOOGL 6.25 05/15/29 B"
-        },
-        {
-          "cusip": "097023204",
-          "name": "BOEING CO",
-          "cls": "DEP CONV PFD A",
-          "value": 248402246,
-          "weight": 0.0016122526887754635,
-          "shares": 3664000.0,
-          "prevShares": null,
-          "ticker": "BA 6 10/15/27"
-        },
-        {
           "cusip": "464286400",
           "name": "ISHARES INC",
           "cls": "MSCI BRAZIL ETF",
@@ -15314,6 +16125,39 @@
           "shares": 7120968.0,
           "prevShares": null,
           "ticker": "EWZ"
+        }
+      ],
+      "soldCount": 333,
+      "soldOut": [
+        {
+          "cusip": "438516106",
+          "name": "HONEYWELL INTL INC",
+          "prevValue": 264334174,
+          "ticker": "HONGBP"
+        },
+        {
+          "cusip": "053015103",
+          "name": "AUTOMATIC DATA PROCESSING IN",
+          "prevValue": 240881877,
+          "ticker": "ADP"
+        },
+        {
+          "cusip": "46438F101",
+          "name": "ISHARES BITCOIN TRUST ETF",
+          "prevValue": 240526527,
+          "ticker": "IBIT"
+        },
+        {
+          "cusip": "143658300",
+          "name": "CARNIVAL CORP",
+          "prevValue": 145842030,
+          "ticker": "CCL1USD"
+        },
+        {
+          "cusip": "464287523",
+          "name": "ISHARES TR",
+          "prevValue": 105992850,
+          "ticker": "SOXX"
         }
       ]
     }

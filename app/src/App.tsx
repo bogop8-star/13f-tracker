@@ -1,7 +1,10 @@
-import { useEffect, useMemo, useState, type ReactNode } from 'react'
+import { lazy, Suspense, useEffect, useMemo, useState, type ReactNode } from 'react'
 import { money, pct, quarter, shareChange } from './format'
 import { findOverlap, type OverlapRow } from './overlap'
 import type { HoldingsData, Investor, Position } from './types'
+
+// 챗봇(ONNX 런타임 포함)은 열 때만 내려받습니다
+const Chat = lazy(() => import('./Chat'))
 
 const MAX_SELECTED = 5
 const STORAGE_KEY = '13f-selected'
@@ -29,6 +32,9 @@ export default function App() {
   const [selected, setSelected] = useState<number[]>(loadSelected)
   const [tab, setTab] = useState<Tab>('top')
   const [limitHit, setLimitHit] = useState(false)
+  const [view, setView] = useState<'dashboard' | 'chat'>('dashboard')
+  // 챗봇은 처음 열 때 임베딩 모델(약 200MB)을 받으므로, 열기 전에는 만들지 않고 연 뒤에는 대화를 유지합니다
+  const [chatOpened, setChatOpened] = useState(false)
 
   useEffect(() => {
     fetch('./data/holdings.json')
@@ -91,6 +97,18 @@ export default function App() {
         </div>
       </header>
 
+      <nav className="views">
+        <button className={view === 'dashboard' ? 'on' : ''} onClick={() => setView('dashboard')}>대시보드</button>
+        <button className={view === 'chat' ? 'on' : ''} onClick={() => { setView('chat'); setChatOpened(true) }}>공시 챗봇</button>
+      </nav>
+
+      {chatOpened && (
+        <div hidden={view !== 'chat'}>
+          <Suspense fallback={<p className="muted">챗봇을 불러오는 중…</p>}><Chat /></Suspense>
+        </div>
+      )}
+
+      {view === 'dashboard' && <>
       <section>
         <div className="section-head">
           <h2>투자자 선택</h2>
@@ -157,6 +175,7 @@ export default function App() {
           )}
         </section>
       )}
+      </>}
     </main>
   )
 }
