@@ -1,0 +1,88 @@
+# 매일 SEC EDGAR에서 새 13F를 확인하고, 데이터가 바뀌었을 때만 GitHub Pages를 다시 배포합니다.
+# 저장소 Settings > Secrets에 SEC_USER_AGENT("이름 이메일")를 넣고,
+# Settings > Pages의 Source를 "GitHub Actions"로 바꿔야 합니다.
+name: 13F update & deploy
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 매일 09:00 KST
+  workflow_dispatch:       # 수동 실행 (항상 배포)
+  push:
+    branches: [main]
+    paths: ["app/**"]      # 화면 코드가 바뀌면 배포
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.diff.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+
+      # 공시 원본 캐시. 커밋하지 않고 Actions 캐시에 보관합니다.
+      - uses: actions/cache@v4
+        with:
+          path: |
+            data/filings
+            data/tickers.json
+          key: sec-data-${{ github.run_id }}
+          restore-keys: sec-data-
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+
+      - name: Fetch 13F and export
+        env:
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+        run: |
+          python tracker.py update
+          python export.py
+
+      - name: Commit data if changed
+        id: diff
+        run: |
+          git add data/state.json app/public/data/holdings.json
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "data: 13F 업데이트 $(date -u +%F)"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+  deploy:
+    needs: update
+    if: needs.update.outputs.changed == 'true' || github.event_name != 'schedule'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main   # update 단계에서 커밋한 데이터 포함
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: app/package-lock.json
+      - run: npm ci && npm run build
+        working-directory: app
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: app/dist
+      - id: deployment
+        uses: actions/deploy-pages@v4

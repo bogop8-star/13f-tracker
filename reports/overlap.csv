@@ -1,0 +1,354 @@
+﻿ticker,name,cusip,put_call,investor_count,investors,total_value_usd
+SPCX,SPACE EXPLORATION TECHN CORP,84615Q103,,9,Appaloosa (David Tepper); Third Point (Dan Loeb); Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); Coatue Management (Philippe Laffont); Tiger Global (Chase Coleman); Bridgewater Associates (Ray Dalio); ARK Investment Management (Cathie Wood); D. E. Shaw & Co. (David Shaw),8842509913
+CBRS,CEREBRAS SYSTEMS INC,15675D103,,6,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); Coatue Management (Philippe Laffont); Tiger Global (Chase Coleman); ARK Investment Management (Cathie Wood); D. E. Shaw & Co. (David Shaw),2766053238
+HONA,HONEYWELL AEROSPACE INC,43849R105,,5,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); ARK Investment Management (Cathie Wood); Gotham Asset Management (Joel Greenblatt); D. E. Shaw & Co. (David Shaw),326551851
+HON,HONEYWELL INTL INC,438516205,,5,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); ARK Investment Management (Cathie Wood); Gotham Asset Management (Joel Greenblatt); D. E. Shaw & Co. (David Shaw),197581226
+GOOGL 6.25 05/15/29 B,ALPHABET INC,02079K602,,4,Third Point (Dan Loeb); Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),769717404
+GOOGL 6.25 05/15/29 A,ALPHABET INC,02079K404,,4,Third Point (Dan Loeb); Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),690316967
+,CARNIVAL CORP LTD,G2004J103,,4,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); Gotham Asset Management (Joel Greenblatt); D. E. Shaw & Co. (David Shaw),415931975
+,Bitdeer Technologies Group,G11448100,,4,Duquesne Family Office (Stanley Druckenmiller); Millennium Management (Israel Englander); Lone Pine Capital (Stephen Mandel); D. E. Shaw & Co. (David Shaw),244013157
+XE,X-ENERGY INC,98386P102,,4,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); ARK Investment Management (Cathie Wood); D. E. Shaw & Co. (David Shaw),213068828
+FDXF,FEDEX FGHT HLDG CO INC,314352105,,4,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); Gotham Asset Management (Joel Greenblatt); D. E. Shaw & Co. (David Shaw),147438967
+DD,DUPONT DE NEMOURS INC,26614N201,,4,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); Gotham Asset Management (Joel Greenblatt); D. E. Shaw & Co. (David Shaw),127834506
+ALMR,ALAMAR BIOSCIENCES INC,010911105,,4,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); ARK Investment Management (Cathie Wood); D. E. Shaw & Co. (David Shaw),66093830
+KEEL,KEEL INFRASTRUCTURE CORP,486917107,,4,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); Gotham Asset Management (Joel Greenblatt); D. E. Shaw & Co. (David Shaw),52663996
+OGC,OCEANAGOLD CORP,675222400,,4,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); Gotham Asset Management (Joel Greenblatt); D. E. Shaw & Co. (David Shaw),34099870
+EROC,EROCK INC,296013105,,4,Third Point (Dan Loeb); Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),30383170
+TGB,TREKOR METALS LTD,89472Y107,,4,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); Gotham Asset Management (Joel Greenblatt); D. E. Shaw & Co. (David Shaw),4560405
+,NEBIUS   GROUP    N.V.,N97284108,,3,Millennium Management (Israel Englander); Lone Pine Capital (Stephen Mandel); D. E. Shaw & Co. (David Shaw),1230171095
+AMD,Advanced Micro Devices Inc,007903107,,3,Duquesne Family Office (Stanley Druckenmiller); Coatue Management (Philippe Laffont); Tiger Global (Chase Coleman),490063470
+MAIR,MADISON AIR SOLUTIONS CORP,55658T105,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),284320764
+,INNIO NV,N52A8C105,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),217130924
+QNT,QUANTINUUM INC,74768A104,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),209471256
+,ASCENDIS PHARMA A/S,K08588103,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),116151226
+BRUN,BOOST RUN INC,09940T100,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),104073866
+,DPC HOLDINGS PLC,G2R11M108,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),98524549
+ARXS,ARXIS INC,04339D105,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),83480041
+FRVO,FERVO ENERGY CO,31556C106,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),75214052
+IMVT,IMMUNOVANT     INC,45258J102,,3,Millennium Management (Israel Englander); Gotham Asset Management (Joel Greenblatt); D. E. Shaw & Co. (David Shaw),61626115
+NVRI,ENVIRI CORP,29390K102,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),58068616
+BLLN,BILLIONTOONE INC,090168105,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); Gotham Asset Management (Joel Greenblatt),53027440
+LFTO,LIFTOFF MOBILE INC,53229X101,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),51820892
+LCLN,LINCOLN INTL INC,533714101,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),46589156
+AVEX,AEVEX CORP,00835T107,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),39902887
+SA,SEABRIDGE GOLD INC,811927102,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),36983029
+,VERSIGENT PLC,G9600F104,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),35587973
+APLD,APPLIED DIGITAL CORP,038169207,,3,Third Point (Dan Loeb); Tiger Global (Chase Coleman); Gotham Asset Management (Joel Greenblatt),34034945
+YSWY,YESWAY INC,98585C100,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),33243889
+AADX,APPLIED AEROSPACE & DEFENSE,03815J107,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),31946968
+PS,PERSHING SQUARE INC,71531U102,,3,Baupost Group (Seth Klarman); Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),28694875
+,ARES ACQUISITION CORP III,G3303U112,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),26337553
+ELMT,ELMET GROUP CO (THE),289395105,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),25945546
+HAWK,HAWKEYE 360 INC,420201105,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),21838470
+NHP,NATIONAL HEALTHCARE PPTYS IN,42226B501,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),20736650
+NUTX,NUTEX HEALTH INC,67079U306,,3,Citadel Advisors (Ken Griffin); Gotham Asset Management (Joel Greenblatt); D. E. Shaw & Co. (David Shaw),20340524
+VPG,VISHAY PRECISION GROUP INC,92835K103,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),20060057
+WOLF,WOLFSPEED INC,97785W106,,3,Third Point (Dan Loeb); Bridgewater Associates (Ray Dalio); D. E. Shaw & Co. (David Shaw),19573143
+,QUANTUM LEAP ACQUISITION COR,G73167101,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),17704247
+HMH,HMH HLDG INC,40445M100,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),16392103
+EROK,EAGLEROCK LD LLC,27005A105,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),15568431
+WHK,WHITEHAWK MINERALS CORP,96524T101,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),13225768
+OMCL,OMNICELL COM,68213N109,,3,Citadel Advisors (Ken Griffin); Bridgewater Associates (Ray Dalio); Gotham Asset Management (Joel Greenblatt),12582802
+AGL,AGILON HEALTH INC,00857U206,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); Gotham Asset Management (Joel Greenblatt),10238798
+BEAM,Beam Therapeutics Inc,07373V105,,3,Duquesne Family Office (Stanley Druckenmiller); Gotham Asset Management (Joel Greenblatt); D. E. Shaw & Co. (David Shaw),10121312
+AYA,AYA GOLD & SILVER INC,05466C109,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),8761452
+KARD,KARDIGAN INC,485925101,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),8539850
+UUUU,ENERGY   FUELS    INC,292671708,,3,Millennium Management (Israel Englander); Bridgewater Associates (Ray Dalio); Gotham Asset Management (Joel Greenblatt),7679895
+,Ftai Aviation Ltd,G3730V105,,3,Duquesne Family Office (Stanley Druckenmiller); Bridgewater Associates (Ray Dalio); D. E. Shaw & Co. (David Shaw),7566748
+FRBT,FORBRIGHT INC,34520K105,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),7564908
+SPYG,SPDR SERIES TRUST,78464A409,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),7151537
+,CANTOR EQUITY PARTNERS VII I,G1828W100,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),5446643
+IUSG,ISHARES TR,464287671,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),4576606
+DMRC,DIGIMARC CORP,25382K100,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),3700348
+AAON,AAON  INC,000360206,,3,Millennium Management (Israel Englander); Bridgewater Associates (Ray Dalio); Gotham Asset Management (Joel Greenblatt),3546752
+LFMD,LIFEMD INC,53216B104,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),2882818
+,MODIV INDUSTRIAL INC,60784B101,,3,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander); Bridgewater Associates (Ray Dalio),2154885
+SEPN,SEPTERNA INC,81734D104,,3,Citadel Advisors (Ken Griffin); Gotham Asset Management (Joel Greenblatt); D. E. Shaw & Co. (David Shaw),2081572
+XHE,SPDR SERIES TRUST,78464A581,,3,Citadel Advisors (Ken Griffin); ARK Investment Management (Cathie Wood); D. E. Shaw & Co. (David Shaw),1271151
+INTC,INTEL CORP,458140100,,2,Coatue Management (Philippe Laffont); Bridgewater Associates (Ray Dalio),1691812652
+V,VISA INC,92826C839,,2,Pershing Square (Bill Ackman); Tiger Global (Chase Coleman),1396090506
+,SEAGATE TECHNOLOGY HLDNGS PL,G7997R103,,2,Tiger Global (Chase Coleman); Lone Pine Capital (Stephen Mandel),1240226685
+HUT,Hut 8 Corp,44812J104,,2,Duquesne Family Office (Stanley Druckenmiller); Coatue Management (Philippe Laffont),1157870127
+STRL,STERLING INFRASTRUCTURE INC,859241101,,2,Lone Pine Capital (Stephen Mandel); D. E. Shaw & Co. (David Shaw),642796996
+TTMI,TTM TECHNOLOGIES INC,87305R109,,2,Third Point (Dan Loeb); Lone Pine Capital (Stephen Mandel),606519887
+,ON HLDG AG,H5919C104,,2,Lone Pine Capital (Stephen Mandel); Gotham Asset Management (Joel Greenblatt),497113679
+SMCI 7 06/01/29,SUPER  MICRO     COMPUTER     INC,86800U500,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),331071136
+EWZ,ISHARES  INC,464286400,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),247306868
+EXR,EXTRA   SPACE    STORAGE      INC,30225T102,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),215727201
+,NXP   SEMICONDUCTORS                N     V,N6596X109,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),196905356
+BA,BOEING CO,097023105,,2,Appaloosa (David Tepper); Bridgewater Associates (Ray Dalio),174257268
+,FLEX LTD,Y2573F102,,2,Third Point (Dan Loeb); Gotham Asset Management (Joel Greenblatt),173212150
+PSUS,PERSHING SQUARE USA LTD,71531T105,,2,Pershing Square (Bill Ackman); Citadel Advisors (Ken Griffin),172916890
+GOOGL,Alphabet Inc,02079K305,,2,Duquesne Family Office (Stanley Druckenmiller); ARK Investment Management (Cathie Wood),170259399
+NVS,NOVARTIS AG,66987V109,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),169075334
+SMH,VANECK ETF TRUST,92189F676,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),135366513
+PCOR,PROCORE TECHNOLOGIES INC,74275K108,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),104675262
+AMBQ,AMBIQ MICRO INC,023193105,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),97689910
+DHR,Danaher Corp Del,235851102,,2,Duquesne Family Office (Stanley Druckenmiller); Tiger Global (Chase Coleman),96439880
+XLB,SELECT SECTOR SPDR TR,81369Y100,,2,Gotham Asset Management (Joel Greenblatt); D. E. Shaw & Co. (David Shaw),88117312
+TECH,BIO-TECHNE     CORP,09073M104,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),86017223
+,SMURFIT    WESTROCK   PLC,G8267P108,,2,Millennium Management (Israel Englander); Bridgewater Associates (Ray Dalio),82313333
+XBI,SPDR SERIES TRUST,78464A870,,2,Citadel Advisors (Ken Griffin); ARK Investment Management (Cathie Wood),79010690
+NI,NISOURCE INC,65473P105,,2,Bridgewater Associates (Ray Dalio); Gotham Asset Management (Joel Greenblatt),76613654
+KLRA,KAILERA THERAPEUTICS INC,482931102,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),71780063
+QQQM,INVESCO EXCH TRADED FD TR II,46138G649,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),62012506
+GSK,GSK PLC,37733W204,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),61384973
+GMRS,GMR SOLUTIONS INC,38013D106,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),55498369
+PGNY,PROGYNY INC,74340E103,,2,Citadel Advisors (Ken Griffin); Bridgewater Associates (Ray Dalio),52973829
+DHI,D R HORTON INC,23331A109,,2,Berkshire Hathaway (Warren Buffett); Duquesne Family Office (Stanley Druckenmiller),49281504
+PTRN,PATTERN GROUP INC,70339W104,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),45634406
+AEVA,Aeva Technologies Inc,00835Q202,,2,Duquesne Family Office (Stanley Druckenmiller); D. E. Shaw & Co. (David Shaw),44537229
+XMTR,XOMETRY INC,98423F109,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),42031372
+SPXL,DIREXION SHARES ETF TRUST,25459W862,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),41152125
+MIDD,MIDDLEBY   CORP,596278101,,2,Millennium Management (Israel Englander); Bridgewater Associates (Ray Dalio),37761699
+GT,GOODYEAR TIRE & RUBR CO,382550101,,2,Appaloosa (David Tepper); Citadel Advisors (Ken Griffin),35393556
+AVLN,AVALYN PHARMACEUTICALS INC,05348Y105,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),32330666
+IWD,ISHARES TR,464287598,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),28647953
+STUB,STUBHUB HLDGS INC,86384P109,,2,Bridgewater Associates (Ray Dalio); D. E. Shaw & Co. (David Shaw),28315776
+MDY,STATE STR SPDR S&P MIDCAP 40,78467Y107,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),27499890
+RKT,Rocket Cos Inc,77311W101,,2,Duquesne Family Office (Stanley Druckenmiller); Bridgewater Associates (Ray Dalio),26397102
+HHH,HOWARD HUGHES HOLDINGS INC,44267T102,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),24675774
+SKY,Champion Homes Inc,830830105,,2,Duquesne Family Office (Stanley Druckenmiller); D. E. Shaw & Co. (David Shaw),24503977
+,IDEA   ACQUISITION        CORP,G4727U100,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),24488750
+BKSY,BLACKSKY TECHNOLOGY INC,09263B207,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),23295219
+PURR,Hyperliquid Strategies Inc,44916Y106,,2,Duquesne Family Office (Stanley Druckenmiller); D. E. Shaw & Co. (David Shaw),23246219
+ATO,ATMOS ENERGY CORP,049560105,,2,Bridgewater Associates (Ray Dalio); D. E. Shaw & Co. (David Shaw),22370982
+TAN,INVESCO EXCH TRADED FD TR II,46138G706,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),22311617
+CORZ,CORE SCIENTIFIC INC NEW,21874A106,,2,Third Point (Dan Loeb); Tiger Global (Chase Coleman),22288890
+,GENERAL CATALYST GBL RESIL M,G3793T112,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),22123500
+RGEN,Repligen Corp,759916109,,2,Duquesne Family Office (Stanley Druckenmiller); D. E. Shaw & Co. (David Shaw),21929272
+VCSH,VANGUARD SCOTTSDALE FDS,92206C409,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),20045643
+LEG1*,LEGGETT  &    PLATT   INC,524660107,,2,Millennium Management (Israel Englander); Bridgewater Associates (Ray Dalio),19826353
+VDE,VANGUARD WORLD FD,92204A306,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),19648864
+FIBK,FIRST INTST BANCSYSTEM INC,32055Y201,,2,Bridgewater Associates (Ray Dalio); D. E. Shaw & Co. (David Shaw),19584470
+,NOBLE CORP PLC,G65431127,,2,Citadel Advisors (Ken Griffin); Bridgewater Associates (Ray Dalio),19541507
+KRE,SPDR  SERIES  TRUST,78464A698,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),18637351
+,AMCOR PLC,G0250X149,,2,Bridgewater Associates (Ray Dalio); Gotham Asset Management (Joel Greenblatt),18301156
+VUG,VANGUARD INDEX FDS,922908736,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),18087591
+RXO,RXO  INC,74982T103,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),17804958
+RSP,Invesco Exchange Traded Fd T,46137V357,,2,Duquesne Family Office (Stanley Druckenmiller); Citadel Advisors (Ken Griffin),17741738
+DFTX,Definium Therapeutics Inc,24477V105,,2,Duquesne Family Office (Stanley Druckenmiller); Gotham Asset Management (Joel Greenblatt),16981540
+,CHURCHILL CAP CORP XII,G2131M128,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),16790177
+FDVV,FIDELITY COVINGTON TRUST,316092840,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),16448619
+LSTR,LANDSTAR SYS INC,515098101,,2,Bridgewater Associates (Ray Dalio); D. E. Shaw & Co. (David Shaw),15911961
+NOVT,NOVANTA INC,67000B104,,2,Bridgewater Associates (Ray Dalio); Gotham Asset Management (Joel Greenblatt),15572931
+UFO,PROCURE   ETF   TRUST  II,74280R205,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),15489566
+RDDT,Reddit Inc,75734B100,,2,Duquesne Family Office (Stanley Druckenmiller); Citadel Advisors (Ken Griffin),15487553
+,CHURCHILL   CAP    CORP  XII,G2131M102,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),14910000
+ARIS,ARIS MINING CORPORATION,04040Y109,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),14653524
+,MOZAYYX    ACQUISITION   CORP,G63113107,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),14575123
+SYNA,SYNAPTICS      INC,87157D109,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),14512300
+SSD,SIMPSON   MFG     INC,829073105,,2,Millennium Management (Israel Englander); Bridgewater Associates (Ray Dalio),14301118
+,WISE GROUP PLC,G9723Y105,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),13778334
+UPRO,PROSHARES TR,74347X864,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),13768518
+,PALOMA     ACQUISITION   CORP    I,G6881J102,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),13296750
+,HENNESSY    CAP      INVTS    CORP   VIII,G44055104,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),13025429
+,ROYALTY   PHARMA     PLC,G7709Q104,,2,Millennium Management (Israel Englander); Bridgewater Associates (Ray Dalio),12993101
+OUST,OUSTER INC,68989M202,,2,Bridgewater Associates (Ray Dalio); Gotham Asset Management (Joel Greenblatt),12542825
+HLN,HALEON   PLC,405552100,,2,Millennium Management (Israel Englander); Bridgewater Associates (Ray Dalio),12458470
+,OCTAVE  INTELLIGENCE      PLC,G22845104,,2,Millennium Management (Israel Englander); ARK Investment Management (Cathie Wood),12343208
+IMUX,IMMUNIC INC,4525EP200,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),11711432
+,PROEM   ACQUISITION   CORP       I,G7341A103,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),11374938
+,TRG   LATIN   AMER     ACQUIS  CORP,G9037S109,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),10879000
+MSCI,MSCI INC,55354G100,,2,Bridgewater Associates (Ray Dalio); D. E. Shaw & Co. (David Shaw),10538833
+IVE,ISHARES TR,464287408,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),10473143
+TRI,THOMSON REUTERS CORP,884903881,,2,Bridgewater Associates (Ray Dalio); Gotham Asset Management (Joel Greenblatt),10068114
+SLDE,SLIDE  INS   HLDGS  INC,831349105,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),9983414
+,ALDABRA   4   LQDTY    OPP  VEH    INC,G01900102,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),9940010
+IWY,ISHARES TR,464289438,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),9362033
+SHLD,GLOBAL  X  FDS,37960A529,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),9332793
+SUJA,SUJA LIFE INC,86508F102,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),9310096
+INDA,ISHARES TR,46429B598,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),9123766
+IYE,ISHARES TR,464287796,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),9073641
+,APOGEE     ACQUISITION   CORP,G04126101,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),9069962
+IWP,ISHARES TR,464287481,,2,Citadel Advisors (Ken Griffin); Gotham Asset Management (Joel Greenblatt),8841700
+,KPET  ULTRA     PACELINE      CORP,G53157106,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),8507950
+,COLLECTIVE ACQUISITION CORP,G22741121,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),8149756
+GUNR,FLEXSHARES TR,33939L407,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),8109123
+RLMD,RELMADA THERAPEUTICS INC,75955J402,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),8104282
+,FG   IMPERII   ACQUISITION      CORP,G3R41C102,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),8078502
+,SUMA   ACQUISITION        CORP,G8557R103,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),7933981
+,ILLUMINATION        ACQUISITIO      CORP,G470AU100,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),7920000
+,MOUNTAIN LAKE ACQUISIT CORP,G6301L109,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),7755916
+LI,LI   AUTO  INC,50202M102,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),7470221
+,ARMADA  ACQUISITION            CORP  III,G0R38M101,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),7437946
+ETON,ETON PHARMACEUTICALS INC,29772L108,,2,Gotham Asset Management (Joel Greenblatt); D. E. Shaw & Co. (David Shaw),7400510
+OEF,ISHARES TR,464287101,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),6900308
+,QDRO  ACQUISITION          CORP,G7310E102,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),6847820
+OII,OCEANEERING       INTL  INC,675232102,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),6634623
+XLRE,SELECT  SECTOR  SPDR  TR,81369Y860,,2,Millennium Management (Israel Englander); Gotham Asset Management (Joel Greenblatt),6599745
+,SPARTACUS  ACQUISITION      CORP  I,G8303R100,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),6504000
+GDYN,GRID DYNAMICS HLDGS INC,39813G109,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),6500896
+,SINDA LTD,G81569108,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),6490956
+TIP,ISHARES TR,464287176,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),6434484
+MAMA,MAMAS CREATIONS INC,56146T103,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),6157643
+,WILCO 63 CORP,G9640P120,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),6080843
+TRAX,FIRST TRACKS BIOTHERAPEUTICS,337185102,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),5974031
+MGC,VANGUARD WORLD FD,921910873,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),5935856
+VONG,VANGUARD SCOTTSDALE FDS,92206C680,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),5824940
+,JFROG LTD,M6191J100,,2,Gotham Asset Management (Joel Greenblatt); D. E. Shaw & Co. (David Shaw),5797053
+VSH,VISHAY INTERTECHNOLOGY INC,928298108,,2,Bridgewater Associates (Ray Dalio); Gotham Asset Management (Joel Greenblatt),5767045
+FELG,FIDELITY COVINGTON TRUST,31609A305,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),5753344
+BR,BROADRIDGE FINL SOLUTIONS IN,11133T103,,2,Bridgewater Associates (Ray Dalio); D. E. Shaw & Co. (David Shaw),5742450
+WASH,WASHINGTON       TR   BANCORP    INC,940610108,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),5713571
+KSPI,KASPI KZ JSC,48581R205,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),5702125
+CDNL,CARDINAL INFRASTRUCTURE GROU,14154A102,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),5701644
+,AMANAT ACQUISITION CORP,G0375M101,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),5697698
+MGK,VANGUARD WORLD FD,921910816,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),5693579
+EFOR,EVERFORTH INC,00191U102,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),5586609
+MPLT,MAPLIGHT THERAPEUTICS INC,56565P103,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),5540577
+,INFLECTION PT ACQUISIT CORP,G4790S107,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),5507177
+,JATT II ACQUISITION CORP,G50765109,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),5449040
+,INTERPRIVATE INVTS PARTNERS,G49097127,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),5386233
+INDI,INDIE SEMICONDUCTOR INC,45569U101,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),5315836
+SII,SPROTT   INC,852066208,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),5296842
+DRAM,ROUNDHILL ETF TRUST,77926X320,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),5257308
+SO 7.125 12/15/28 A,SOUTHERN     CO,842587842,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),5224295
+SPTX,SEAPORT THERAPEUTICS INC,81221K108,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),5136368
+DFATUSD,DIMENSIONAL ETF TRUST,25434V609,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),4756555
+ELDN,ELEDON PHARMACEUTICALS INC,28617K101,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),4710999
+KDK,KODIAK AI INC.,500081104,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),4685955
+ACMR,ACM RESH INC,00108J109,,2,Gotham Asset Management (Joel Greenblatt); D. E. Shaw & Co. (David Shaw),4633642
+TOWN,TOWNEBANK   PORTSMOUTH        VA,89214P109,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),4605488
+ODTX,ODYSSEY THERAPEUTICS INC,67613T104,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),4533396
+ESGU,ISHARES TR,46435G425,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),4513691
+ESQ,ESQUIRE FINL HLDGS INC,29667J101,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),4377768
+PRAX,PRAXIS PRECISION MEDICINES I,74006W207,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),4175165
+BBCA,J P MORGAN EXCHANGE TRADED F,46641Q225,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),4090919
+ASO,ACADEMY   SPORTS      &  OUTDOORS    IN,00402L107,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),4085511
+MXL,MAXLINEAR INC,57776J100,,2,Bridgewater Associates (Ray Dalio); Gotham Asset Management (Joel Greenblatt),3877132
+IYM,ISHARES TR,464287838,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),3811063
+CARL,CARLSMED   INC,14280C105,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),3698872
+POWI,POWER INTEGRATIONS INC,739276103,,2,Bridgewater Associates (Ray Dalio); D. E. Shaw & Co. (David Shaw),3665086
+PDFS,PDF   SOLUTIONS      INC,693282105,,2,Millennium Management (Israel Englander); Bridgewater Associates (Ray Dalio),3592664
+ENHA,ENHANCED GROUP INC,29333R107,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),3567303
+NSA*,NATIONAL STORAGE AFFILIATES,637870106,,2,Bridgewater Associates (Ray Dalio); D. E. Shaw & Co. (David Shaw),3507794
+,SCHMID GROUP N.V.,N68722102,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),3384669
+ANGX,ANGEL STUDIOS INC.,034948109,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),3306190
+XNDU,XANADU QUANTUM TECHNOLO LTD,98390R102,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),3305710
+FRPT,FRESHPET    INC,358039105,,2,Millennium Management (Israel Englander); Bridgewater Associates (Ray Dalio),3302266
+LLYVK,LIBERTY LIVE HOLDINGS INC,530909308,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),3300194
+EIDO,ISHARES  TR,46429B309,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),3286585
+PKX,POSCO HOLDINGS INC,693483109,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),3216388
+FTEC,FIDELITY COVINGTON TRUST,316092808,,2,Gotham Asset Management (Joel Greenblatt); D. E. Shaw & Co. (David Shaw),3183646
+AIRO,AIRO GROUP HLDGS INC,009422106,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),3114656
+COSO,COASTALSOUTH BANCSHARES INC,19058X207,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),3088744
+FEGE,RBB FUND TRUST,75526L886,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),2921747
+ENGN,ENGENE THERAPEUTICS INC,29286X101,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),2913862
+TASK,TASKUS  INC,87652V109,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),2893392
+IWS,ISHARES TR,464287473,,2,Citadel Advisors (Ken Griffin); Gotham Asset Management (Joel Greenblatt),2883298
+SQQQ,PROSHARES TR,74350P675,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),2864496
+XRX,XEROX HOLDINGS CORP,98421M106,,2,Citadel Advisors (Ken Griffin); Gotham Asset Management (Joel Greenblatt),2852898
+NRXP,NRX PHARMACEUTICALS INC,629444209,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),2831703
+DGRW,WISDOMTREE TR,97717X669,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),2748597
+TDIV,FIRST TR EXCHANGE TRADED FD,33738R118,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),2736327
+QTOP,ISHARES TR,46438G562,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),2724978
+,COLOMBIER     ACQUISITION      CORP      I,G2284A103,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),2562500
+DE,DEERE   &   CO,244199105,,2,Millennium Management (Israel Englander); Bridgewater Associates (Ray Dalio),2475790
+FLBR,FRANKLIN TEMPLETON ETF TR,35473P835,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),2440976
+CSWC,CAPITAL SOUTHWEST CORP,140501107,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),2393353
+VDC,VANGUARD WORLD FD,92204A207,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),2285116
+FCBM,FIRST CAROLINA FINL SVCS INC,31943F200,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),2282192
+TWST,TWIST BIOSCIENCE CORP,90184D100,,2,Bridgewater Associates (Ray Dalio); Gotham Asset Management (Joel Greenblatt),2244430
+OPI,OFFICE PPTYS INCOME TR,67623C307,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),2240192
+BWIN,THE BALDWIN INSURANCE GRP IN,05589G102,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),2223524
+TIC,TIC   SOLUTIONS     INC,00510N102,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),2169739
+SHYG,ISHARES TR,46434V407,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),2065834
+HGV,HILTON    GRAND   VACATIONS       INC,43283X105,,2,Millennium Management (Israel Englander); Bridgewater Associates (Ray Dalio),2059136
+AOUT,AMERICAN OUTDOOR BRANDS INC,02875D109,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),1977803
+SVCO,SILVACO    GROUP     INC,82728C102,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),1958539
+RVSB,RIVERVIEW BANCORP INC,769397100,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),1948789
+HCAT,HEALTH CATALYST INC,42225T107,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),1928901
+GLPI,GAMING & LEISURE P,36467J108,,2,Bridgewater Associates (Ray Dalio); D. E. Shaw & Co. (David Shaw),1894707
+SNPE,DBX ETF TR,233051143,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),1840559
+KZIA,KAZIA THERAPEUTICS LTD,48669G303,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),1828781
+BELFB,BEL   FUSE  INC,077347300,,2,Millennium Management (Israel Englander); Gotham Asset Management (Joel Greenblatt),1819064
+EWP,ISHARES INC,464286764,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),1764359
+ACWV,ISHARES INC,464286525,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),1729268
+DCO,DUCOMMUN INC DEL,264147109,,2,Bridgewater Associates (Ray Dalio); Gotham Asset Management (Joel Greenblatt),1711155
+LNZA,LANZATECH GLOBAL INC,51655R200,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),1681750
+RFIL,RF INDS LTD,749552105,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),1680956
+IJT,ISHARES TR,464287887,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),1642763
+FSTA,FIDELITY COVINGTON TRUST,316092303,,2,Gotham Asset Management (Joel Greenblatt); D. E. Shaw & Co. (David Shaw),1627164
+HURA,TUHURA BIOSCIENCES INC,898920103,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),1607239
+RPT,RITHM PPTY TR INC,38983D854,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),1595866
+REA,RARE EARTHS AMERICAS INC,75381A108,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),1593124
+VVV,VALVOLINE INC,92047W101,,2,Bridgewater Associates (Ray Dalio); Gotham Asset Management (Joel Greenblatt),1552578
+BZAI,BLAIZE     HLDGS    INC,092915107,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),1514930
+VOOG,VANGUARD ADMIRAL FDS INC,921932505,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),1502693
+ATLO,AMES NATL CORP,031001100,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),1471351
+DVY,ISHARES  TR,464287168,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),1457185
+LAKE,LAKELAND INDS INC,511795106,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),1452622
+CAC,CAMDEN NATL CORP,133034108,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),1434986
+CZWI,CITIZENS CMNTY BANCORP INC M,174903104,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),1418651
+HFWA,HERITAGE   FINL       CORP    WASH,42722X106,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),1403899
+BTMD,BIOTE CORP,090683103,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),1393682
+TRUT,VANECK ETF TRUST,92189H631,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),1341948
+,BROOKFIELD     WEALTH     SOL  LTD,G17434104,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),1338550
+IEO,ISHARES  TR,464288851,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),1333736
+KULR,KULR TECHNOLOGY GROUP INC,50125G307,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),1301664
+YSS,YORK   SPACE     SYSTEMS   INC,987084100,,2,Millennium Management (Israel Englander); Gotham Asset Management (Joel Greenblatt),1244491
+EXFY,EXPENSIFY INC,30219Q106,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),1219973
+RDIV,INVESCO EXCH TRADED FD TR II,46138G656,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),1219044
+PLX,PROTALIX BIOTHERAPEUTICS INC,74365A309,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),1178426
+GXPT,GLOBAL X FDS,37960A289,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),1150713
+FLTW,FRANKLIN TEMPLETON ETF TR,35473P686,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),1124211
+MED,MEDIFAST INC,58470H101,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),1106156
+INVX,INNOVEX   INTERNATIONAL           INC,457651107,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),1064738
+,WALDENCAST PLC,G9503X103,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),1055000
+DFUS,DIMENSIONAL ETF TRUST,25434V401,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),1033345
+EML,EASTERN CO,276317104,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),1025325
+SLRC,SLR INVESTMENT CORP,83413U100,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),1021391
+VIRC,VIRCO MFG CO,927651109,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),1004449
+ASX,ASE TECHNOLOGY HLDG CO LTD,00215W100,,2,Gotham Asset Management (Joel Greenblatt); D. E. Shaw & Co. (David Shaw),885119
+BARK,BARK INC,68622E203,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),856693
+OM,OUTSET MED INC,690145206,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),833643
+YB,YUANBAO INC,987910106,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),831433
+IWR,ISHARES  TR,464287499,,2,Millennium Management (Israel Englander); Gotham Asset Management (Joel Greenblatt),827180
+VALN,VALNEVA SE,92025Y103,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),813354
+MOBI,MOBIA MED INC,60705V103,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),804000
+GOAU,ETF SER SOLUTIONS,26922A719,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),793969
+BSET,BASSETT FURNITURE INDS INC,070203104,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),773354
+MYE,MYERS INDS INC,628464109,,2,Gotham Asset Management (Joel Greenblatt); D. E. Shaw & Co. (David Shaw),773113
+HFFG,HF FOODS GROUP INC,40417F109,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),748935
+MWC,MICWARE CO LTD,59490A100,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),737877
+MEME,ROUNDHILL ETF TRUST,77926X817,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),688583
+AVD,AMERICAN VANGUARD CORP,030371108,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),685401
+MCFT,MASTERCRAFT    BOAT     HLDGS  INC,57637H103,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),678472
+EHTH,EHEALTH INC,28238P109,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),674940
+OVBC,OHIO VY BANC CORP,677719106,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),623220
+GRO,BRAZIL POTASH CORP,10586A108,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),608416
+MYPSEUR,PLAYSTUDIOS INC,72815G108,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),601872
+IGV,iShares Expanded Tech-Software Sector ETF,464287515,,2,ARK Investment Management (Cathie Wood); D. E. Shaw & Co. (David Shaw),597915
+ABX,ABACUS    GLOBAL  MGMT      INC,00258Y104,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),595294
+MRLN,MERLIN INC,590106100,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),587338
+DWTX,DOGWOOD THERAPEUTICS INC,92829J203,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),569226
+PEY,INVESCO EXCHANGE TRADED FD T,46137V563,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),554975
+CLPR,CLIPPER RLTY INC,18885T306,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),530892
+NEOG,NEOGEN CORP,640491106,,2,Gotham Asset Management (Joel Greenblatt); D. E. Shaw & Co. (David Shaw),512853
+FSBW,FS BANCORP INC,30263Y104,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),512337
+ALOTEUR,ASTRONOVA INC,04638F108,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),503947
+ANVS,ANNOVIS BIO INC,03615A108,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),496890
+HAIN,HAIN CELESTIAL GROUP INC,405217100,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),458729
+INMB,INMUNE BIO INC,45782T105,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),433238
+ARAY,ACCURAY INC DEL,004397105,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),417816
+IXHL,INCANNEX HEALTHCARE INC,45333F208,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),397060
+MYO,MYOMO INC,62857J201,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),388765
+TEAD,TEADS HLDG CO,69002R103,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),388087
+GCTS,GCT SEMICONDUCTOR HLDG INC,36170N107,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),324098
+LIDR,AEYE INC,008183204,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),313468
+TCPC,BLACKROCK TCP CAPITAL CORP,09259E108,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),282048
+BAK,BRASKEM SA,105532105,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),281961
+KLTR,KALTURA INC,483467106,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),231601
+TTEC,TTEC HLDGS INC,89854H102,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),228910
+BLNK,BLINK CHARGING CO,09354A100,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),224519
+,HENNESSY    CAP      INVTS    CORP   VIII,G44055120,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),221375
+,TRG   LATIN   AMER   ACQUIS  CORP,G9037S117,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),184660
+,LOGISTIC PROPERTIES OF THE A,G5557R109,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),139336
+,QUANTUM LEAP ACQUISITION COR,G73167127,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),106185
+LXRX,LEXICON PHARMACEUTICALS INC,528872302,,2,Gotham Asset Management (Joel Greenblatt); D. E. Shaw & Co. (David Shaw),85985
+HDRNW,HADRON ENERGY INC,40500A116,,2,Citadel Advisors (Ken Griffin); D. E. Shaw & Co. (David Shaw),82624
+AVAT,AVALANCHE     TREAS   CORP,05338N101,,2,Millennium Management (Israel Englander); D. E. Shaw & Co. (David Shaw),43057
+DVLT,DATAVAULT AI INC,86633R609,,2,Citadel Advisors (Ken Griffin); Gotham Asset Management (Joel Greenblatt),35374
+,NANO X IMAGING LTD,M70700105,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),31813
+ONCY,ONCOLYTICS BIOTECH INC,68237V103,,2,Citadel Advisors (Ken Griffin); Millennium Management (Israel Englander),28833

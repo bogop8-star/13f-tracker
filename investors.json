@@ -1,0 +1,26 @@
+{
+  "user_agent": "13F-Tracker your-name your-email@example.com",
+  "history_quarters": 5,
+  "min_overlap": 2,
+  "quarters_window": 1,
+  "include_options": false,
+  "include_bonds": false,
+  "investors": [
+    {"name": "Berkshire Hathaway (Warren Buffett)", "cik": 1067983, "ko": "워런 버핏"},
+    {"name": "Duquesne Family Office (Stanley Druckenmiller)", "cik": 1536411, "ko": "스탠리 드러켄밀러"},
+    {"name": "Appaloosa (David Tepper)", "cik": 1656456, "ko": "데이비드 테퍼"},
+    {"name": "Baupost Group (Seth Klarman)", "cik": 1061768, "ko": "세스 클라만"},
+    {"name": "Himalaya Capital (Li Lu)", "cik": 1709323, "ko": "리 루"},
+    {"name": "Third Point (Dan Loeb)", "cik": 1040273, "ko": "댄 로엡"},
+    {"name": "Pershing Square (Bill Ackman)", "cik": 2026053, "prior_ciks": [1336528], "ko": "빌 애크먼"},
+    {"name": "Citadel Advisors (Ken Griffin)", "cik": 1423053, "ko": "켄 그리핀", "style": "quant"},
+    {"name": "Millennium Management (Israel Englander)", "cik": 1273087, "ko": "이스라엘 잉글랜더", "style": "quant"},
+    {"name": "Coatue Management (Philippe Laffont)", "cik": 1135730, "ko": "필립 라퐁"},
+    {"name": "Tiger Global (Chase Coleman)", "cik": 1167483, "ko": "체이스 콜먼"},
+    {"name": "Bridgewater Associates (Ray Dalio)", "cik": 1350694, "ko": "레이 달리오"},
+    {"name": "ARK Investment Management (Cathie Wood)", "cik": 1697748, "ko": "캐시 우드"},
+    {"name": "Lone Pine Capital (Stephen Mandel)", "cik": 1061165, "ko": "스티븐 맨델"},
+    {"name": "Gotham Asset Management (Joel Greenblatt)", "cik": 1510387, "ko": "조엘 그린블랫"},
+    {"name": "D. E. Shaw & Co. (David Shaw)", "cik": 1009207, "ko": "데이비드 쇼", "style": "quant"}
+  ]
+}

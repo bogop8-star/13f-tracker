@@ -1,0 +1,6 @@
+# 공시 원본은 크기가 커서 커밋하지 않습니다 (Actions 캐시에 보관)
+data/filings/
+*.log
+__pycache__/
+app/node_modules/
+app/dist/
